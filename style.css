@@ -1,0 +1,18 @@
+
+body {background-color: #fff;font-family: 'Lato', sans-serif;line-height: 1.5;margin: 0; text-align: center;}
+h1, h2 {font-weight: 700;}
+h1 {font-size: 40px;margin-bottom: 0;}
+h2 {font-size: 22px;}
+h3 {font-size: 18px; font-weight: 700;}
+p {font-size: 16px;}
+
+#main {margin: 30px 8px;padding: 15px;border-radius: 5px;background: #eee;}
+#img-div {background: white;padding: 10px;margin: 0;}
+#image {max-width: 100%;display: block;height: auto;margin: 0 auto;}
+#img-caption {margin: 15px 0 5px 0;}
+#tribute-info {display: block;}
+#headline {margin: 50px 0;text-align: 0;}
+ul {max-width: 550px;margin: 0 auto 50px auto;text-align: left;line-height: 1.6;}
+li {margin: 16px 0;}
+blockquote {font-style: italic;max-width: 545px;margin: 0 auto 50px auto;text-align: left;}
+a:visited {color: #74638f;}
